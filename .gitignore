@@ -1,0 +1,3 @@
+Author . book --Book.author
+Customer . Loan ---Loan . customer
+Book. Loan ---Loan . customer
